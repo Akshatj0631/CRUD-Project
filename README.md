@@ -330,7 +330,7 @@ docker-compose down -v
 For example, if you want to update the name or email for the user with id = 1, use this:
 
  UPDATE users
- SET name = 'Amir H.', email = 'amir.h@example.com'
+ SET name = 'Akshat G.', email = 'Akshat.G@example.com'
  WHERE id = 1;
 
 
