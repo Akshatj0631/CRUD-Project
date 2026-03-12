@@ -68,7 +68,7 @@ pm2 --version
 ```
 ### 4. Clone the Repository
 ```bash
-git clone https://github.com/mahadihassanrazib/full-stack-crud-project-with-react-node-mysql.git
+git clone https://github.com/Akshatj0631/CRUD-Project
 
 # Navigate to the project directory:
 cd full-stack-crud-project-with-react-node-mysql
