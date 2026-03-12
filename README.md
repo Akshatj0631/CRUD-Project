@@ -1,6 +1,7 @@
 # Three-Tier MERN Application with React.js, Node.js & MySQL
 
-<img src="./zimages/mern.jpg" alt="MERN Stack" width="100%" height="100%">
+![mern](https://github.com/user-attachments/assets/d73f1ab8-d13e-44bd-ad88-34782cef84bd)
+
 
 ## This repository contains a complete three-tier web application built using:
 
@@ -38,7 +39,8 @@ sudo apt update && sudo apt upgrade -y
 ```
 ### 2. Install Node.js and npm
 
-<img src="./zimages/node.png" alt="MERN Stack" width="25%" height="100%">
+<img width="512" height="512" alt="node" src="https://github.com/user-attachments/assets/00624c1e-5f0c-4d6d-9eeb-45c7fa25843e" />
+
 
 ```bash
 # Add the NodeSource repository for Node.js:
@@ -55,7 +57,8 @@ npm -v
 ```
 ### 3. Install PM2
 ---
-<img src="./zimages/pm2-v4.png" alt="MERN Stack" width="100%" height="100%">
+<img width="6138" height="1493" alt="pm2-v4" src="https://github.com/user-attachments/assets/04280c25-0bde-4648-b260-f49601683617" />
+
 
 
 
@@ -71,7 +74,7 @@ pm2 --version
 git clone https://github.com/Akshatj0631/CRUD-Project
 
 # Navigate to the project directory:
-cd full-stack-crud-project-with-react-node-mysql
+cd CRUD-Project
 ```
 
 ### 5. Configure and Run Backend `API` Server 🏗️
@@ -165,7 +168,8 @@ pm2 save
 
 ### 10. Run `MySQL` Database Locally along with `PHPMyAdmin` (with docker compose file) 🗄️
 
-<img src="./zimages/mysql-phpmyadmin-docker-compose.png" alt="MERN Stack" width="100%" height="100%">
+<img width="829" height="399" alt="mysql-phpmyadmin-docker-compose" src="https://github.com/user-attachments/assets/9cf0c5bd-429d-4d84-b1b3-d9e5967b0612" />
+
 
 - Requirements:
   - Docker and Docker Compose installed on your server.
