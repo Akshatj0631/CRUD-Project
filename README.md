@@ -343,12 +343,30 @@ npm run build
 ```
 
 
+## 👥 Contributors
 
-# Contributing 🤝
-### Feel free to contribute or report issues to improve this setup guide!
-
-## License 📄
-MIT License – see `LICENSE` for details.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/akshatj0631">
+        <img src="https://github.com/akshatj0631.png" width="100px;" alt="Akshat Gautam"/>
+        <br />
+        <sub><b>Akshat Gautam</b></sub>
+      </a>
+      <br />
+       Developer
+    </td>
+    <td align="center">
+      <a href="https://github.com/vaibhawsagar">
+        <img src="https://github.com/vaibhawsagar.png" width="100px;" alt="Vaibhav Sagar"/>
+        <br />
+        <sub><b>Vaibhav Sagar</b></sub>
+      </a>
+      <br />
+       Developer
+    </td>
+  </tr>
+</table>
 
 ## Happy Coding! 🎉
 
